@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4d85aed4fd9a27a4b8b0d95e68a4fc80
+timeCreated: 1505871659
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Starlight
+  fontNames:
+  - Starlight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

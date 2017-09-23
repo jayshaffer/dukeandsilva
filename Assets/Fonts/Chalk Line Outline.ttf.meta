@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 579c2d913473a7242b98e67b5a953b49
+timeCreated: 1505872664
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chalk Line
+  fontNames:
+  - Chalk Line
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

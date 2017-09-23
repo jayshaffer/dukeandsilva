@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 717ca9edd05d32e4089c174e358687ba
+timeCreated: 1505872199
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wicked Grit
+  fontNames:
+  - Wicked Grit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
